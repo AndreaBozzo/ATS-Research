@@ -1,6 +1,9 @@
 # CV HTML files - sensitive content
 CVs/*.html
 
+# Google Apps Script - contains email and sensitive logic
+analysis/google-script.js
+
 # Python
 __pycache__/
 *.py[cod]
