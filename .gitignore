@@ -47,3 +47,6 @@ Thumbs.db
 
 # PDF outputs (generated files)
 PDFs/*.pdf
+
+# screenshots folder (no need to explain)
+screenshots/*.jpg
