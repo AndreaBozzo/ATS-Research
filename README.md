@@ -2,6 +2,8 @@
 
 A comprehensive research project analyzing Applicant Tracking System (ATS) parsing capabilities and optimization techniques for CV/resume processing.
 
+UPDATE: Suspended as of 22/09/2025 for lack of meaningful results, most of the modern ATS systems use specific filters for 90% of common "CV hacks", but i will look forward to strenghten the bypasses someday.
+
 ## Overview
 
 This project investigates how different ATS systems parse and extract information from CVs in various formats, with a focus on understanding the effectiveness of different optimization strategies.
